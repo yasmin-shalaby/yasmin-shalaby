@@ -1,6 +1,6 @@
-## \<h2>Hi, I'm Yasmin Shalaby!\</h2>
+## Hi, I'm Yasmin Shalaby!
 
-\<p>\<em> Computer Engineering Student\<br> Faculty of Engineering – Computer Department \</em>\</p>
+ Computer Engineering Student\<br> Faculty of Engineering – Computer Department 
 
 ---
 
